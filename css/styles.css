@@ -37,3 +37,19 @@
     background-color: #010101;
     color: white;
 }
+
+@media all and (max-device-width: 1024px) {
+  .gh-link {
+    border-radius: 12px;
+    border: 1px solid #fff;
+    font-size: 32pt;
+  }
+}
+
+@media all and (max-device-width: 768px) {
+  .gh-link {
+    border-radius: 12px;
+    border: 1px solid #fff;
+    font-size: 48pt;
+  }
+}
