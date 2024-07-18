@@ -1,9 +1,9 @@
-const cacheName = "deszz-Imui Demo-0.1";
+const cacheName = "deszz-Imui Demo-0.2";
 const contentToCache = [
-    "Build/ImuiDemo.loader.js",
-    "Build/ImuiDemo.framework.js",
-    "Build/ImuiDemo.data",
-    "Build/ImuiDemo.wasm",
+    "Build/imui_demo.loader.js",
+    "Build/imui_demo.framework.js",
+    "Build/imui_demo.data",
+    "Build/imui_demo.wasm",
     "TemplateData/style.css"
 
 ];
